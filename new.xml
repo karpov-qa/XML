@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AndreyKarpov>
+	<FirstName>Andrey</FirstName>
+	<lastName>Karpov</lastName>
+	<age>23</age>	
+	<Count_of_Pets>Клиент серверная архитектура</Count_of_Pets>	
+	<Expecred_Salary>API</Expecred_Salary>	
+	<Hobbies>Бег, чтение, видеомонтаж</Hobbies>
+</AndreyKarpov>
